@@ -8,9 +8,7 @@ namespace SRTPluginProviderTEW.Structs.GameStructs
     {
         [FieldOffset(0x10)] private int greenGel;
         [FieldOffset(0x98)] private int igt;
-        
         public int GreenGel => greenGel;
-
         public int IGT => igt;
     }
 }

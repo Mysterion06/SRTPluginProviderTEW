@@ -12,11 +12,11 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mysterion_06_")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © Mysterion_06_")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A provider plugin for the SRT Host to provide memory values to other plugins.")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.1")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.3")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Evil Within (2014) Memory Provider Plugin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SRTPluginProviderTEW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("3.0.0.0")]
